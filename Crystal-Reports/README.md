@@ -1,8 +1,16 @@
 # Crystal Reports
 
-This section contains Crystal Reports customization, troubleshooting, and reporting case studies completed in SAP Business One environments.
+This section contains SAP Business One Crystal Reports projects, customizations, troubleshooting cases, and reporting enhancements.
 
-## Cases
+## Areas Covered
 
-* Incoming Payment Subreport Debugging
-* Cheque Layout Customization
+* Layout customization
+* Payment reports
+* Cheque printing
+* Subreport troubleshooting
+* Formula development
+* Report debugging
+
+## Case Studies
+
+Cases will be added as they are documented.

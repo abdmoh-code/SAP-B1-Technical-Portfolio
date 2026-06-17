@@ -12,4 +12,7 @@ This section contains SAP Business One Transaction Notification implementations 
 
 ## Case Studies
 
-Cases will be added as they are documented.
+- AP Invoice Attachment Validation
+- AR Invoice Base Document Validation
+- Service-Type Delivery Restriction
+- Active Item Creation Restriction

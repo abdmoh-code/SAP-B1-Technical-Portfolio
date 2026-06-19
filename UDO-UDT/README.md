@@ -12,4 +12,4 @@ This section contains SAP Business One customization projects involving User Def
 
 ## Case Studies
 
-Cases will be added as they are documented.
+- Apartment Management UDO Solution

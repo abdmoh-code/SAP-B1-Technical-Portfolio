@@ -13,4 +13,5 @@ This section contains SAP Business One Crystal Reports projects, customizations,
 
 ## Case Studies
 
-Cases will be added as they are documented.
+- [Incoming Payment Subreport Debugging](./Incoming-Payment-Subreport-Debugging/)
+- [Cheque Layout Customization](./Cheque-Layout-Customization/)

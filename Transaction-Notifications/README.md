@@ -16,3 +16,4 @@ This section contains SAP Business One Transaction Notification implementations 
 - AR Invoice Base Document Validation
 - Service-Type Delivery Restriction
 - Active Item Creation Restriction
+- Mandatory Remarks Validation
